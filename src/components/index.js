@@ -9,6 +9,7 @@ import Clients from './Clients'
 import Hero from './Hero'
 import Stats from './Stats'
 import Testimonials from './Testimonials'
+import FeedbackCard from './FeedbackCard'
 
 export {
     Navbar,
@@ -21,5 +22,6 @@ export {
     Clients,
     Hero, 
     Testimonials,
+    FeedbackCard,
     Stats
 };
